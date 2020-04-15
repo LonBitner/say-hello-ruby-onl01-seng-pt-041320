@@ -1,5 +1,3 @@
-# Build your say_hello method here
-
 def introduction (name)
   puts "Hi, my name is #{name}."
   end
