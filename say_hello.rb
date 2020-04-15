@@ -1,5 +1,5 @@
 def say_hello (name)
-  puts "Hi, my name is #{name}."
+  puts "Hello #{name}."
  end
  
  say_hello ("Kent Beck")
